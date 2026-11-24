@@ -1,0 +1,21 @@
+h1{
+    font-family: "Lora", serif;
+    font-size: 36px;
+
+     /*font-variation-settings is a catch-all for all settings
+    outside of weight and italics */
+    font-variation-settings: "wdth" 100;
+    
+    /* this is for an animation */
+    transition: all 3s;
+
+}
+
+h3 {
+    font-family: "DM Serif Display", serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Roboto Mono", monospace;
+}
